@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/cocos/editor-support/cocostudio/DictionaryHelper.cpp \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/DictionaryHelper.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/document-wrapper.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/rapidjson.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/document.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/reader.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/allocators.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/stream.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/encodings.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/encodedstream.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/memorystream.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/meta.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/stack.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/swap.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/strtod.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/ieee754.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/biginteger.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/diyfp.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/pow10.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/error/error.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/strfunc.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../external/json/internal/../stream.h \
+  /Users/Couple/Documents/Animation/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/CocosStudioExport.h
