@@ -98,14 +98,14 @@ cc.game.onStart = function(){
     // cc.view.setOrientation(cc.ORIENTATION_PORTRAIT);
 
     // Setup the resolution policy and design resolution size
-    cc.view.setDesignResolutionSize(960, 640, cc.ResolutionPolicy.SHOW_ALL);
+    cc.view.setDesignResolutionSize(1200, 900, cc.ResolutionPolicy.NO_BORDER);
 
     // The game will be resized when browser size change
     cc.view.resizeWithBrowserSize(true);
 
     //load resources
     cc.LoaderScene.preload(g_resources, function () {
-        cc.director.runScene(new HelloWorldScene());
+        cc.director.runScene(new MenuScene());
     }, this);
 };
 cc.game.run();

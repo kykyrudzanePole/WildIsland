@@ -13,6 +13,7 @@
 
     "jsList" : [
         "src/resource.js",
+        "src/MenuApp.js",
         "src/app.js"
     ]
 }
